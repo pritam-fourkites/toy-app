@@ -1,0 +1,2 @@
+class OmdbController < ApplicationController
+end
